@@ -2,7 +2,7 @@
 
 <div style="height:300px; overflow:hidden; text-align:center;">
   <img
-    src="./asset/github.gif"
+    src="https://imgur.com/a/zr0lZBa"
     style="
       width:100%;          /* 横向充满整行 */
       height:100%;         /* 撑满容器高度 */
