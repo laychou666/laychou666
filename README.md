@@ -1,13 +1,19 @@
 ## <div align="center">Hi👋</div>
 
-<div style="height:300px; overflow:hidden; text-align:center;">
+<!-- 整个块在页面里横向居中 -->
+<div style="
+      height:300px;
+      overflow:hidden;
+      margin:0 auto;        /* 关键：左右 auto */
+      width:80%;            /* 或 800px / max-width:900px 均可 */
+   ">
   <img
     src="./asset/github.gif"
     style="
-      width:100%;          /* 横向充满整行 */
-      height:100%;         /* 撑满容器高度 */
-      object-fit:cover;    /* 上下裁剪，保持比例 */
-      object-position:center center; /* 裁剪时居中 */
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      object-position:center center;
     "
   />
 </div>
