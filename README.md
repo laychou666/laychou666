@@ -1,22 +1,14 @@
 ## <div align="center">Hi👋</div>
 
-<!-- 整个块在页面里横向居中 -->
-<div style="
-      height:300px;
-      overflow:hidden;
-      margin:0 auto;        /* 关键：左右 auto */
-      width:80%;            /* 或 800px / max-width:900px 均可 */
-   ">
-  <img
-    src="./asset/github.gif"
-    style="
-      width:100%;
-      height:100%;
-      object-fit:cover;
-      object-position:center center;
-    "
-  />
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=1800&color=FFFFFF&vCenter=true&multiline=true&random=false&width=650&height=140&repeat=true&lines=Hi!+I'm+Ryder+Lay.+Welcome+to+my+GitHub+page.;I'm+a+student+majoring+CS+from+Shanghai%2C+China.;My+go-to+languages+are+Python%2C+C%2B%2B%2C+LaTeX.;I'm+a+classical+piano+%26+anime+enthusiast.">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=1800&color=000000&vCenter=true&multiline=true&random=false&width=650&height=140&repeat=true&lines=Hi!+I'm+Ryder+Lay.+Welcome+to+my+GitHub+page.;I'm+a+student+majoring+CS+from+Shanghai%2C+China.;My+go-to+languages+are+Python%2C+C%2B%2B%2C+LaTeX.;I'm+a+classical+piano+%26+anime+enthusiast.">
+  <img alt="dynamic intro" src="">
+</picture>
+</p>
 
 ---
 
